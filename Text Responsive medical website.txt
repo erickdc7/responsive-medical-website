@@ -1,0 +1,172 @@
+========== HEADER ==========
+.nav__logo
+Medical
+
+.nav__link
+Home - Delivery - About Us - Prices - Contact
+
+
+========== HOME ==========
+.home__title
+<span>Get Quick</span> 
+<br> Medical Service
+
+.home__description
+Get your medical service from a certified 
+doctor and health professional.
+
+.button
+Get Started
+
+.home__name
+Dr. Myla Harts
+
+.home__profession
+Bones Specialist
+
+.home__button
+Contact
+
+
+========== DELIVERY ==========
+.section__title
+Vaccine Injections <br>
+<span>Delivery Service</span>
+
+.delivery__description
+We provide door-to-door vaccine and injection delivery 
+services, available to all segments throughout the city.
+
+.delivery__subtitle - p
+Home Service
+Fast home vaccination service.
+
+1 Hour Service
+Super easy and quick service for patients.
+
+Better Quality
+The Best Medicines for Health.
+
+.delivery__title
+Request <br> Vaccination
+
+.delivery__patients
+<span>324</span> Patients
+
+.button__dark
+Request
+
+
+========== ABOUT US ==========
+.section__title
+<span>We Have Certified</span>
+<br> Medical Service
+
+.about__description
+Don't worry, we have certified medical services, so 
+you can receive medical consultations in any specialty.
+
+.about__number .about__details
+256
+Healthy <br> Patients
+
+16
+Hospital <br> Care
+
+8
+Years Of <br> Experience
+
+.about__button
+Contact Me
+
+
+========== PRICES ==========
+.section__title
+<span>Affordable Prices To</span>
+<br> Check Your Health
+
+.prices__description
+Get the best prices, make inquiries, checkups, and 
+visit your home. Schedule your consultation now.
+
+.prices__details
+All Medical Services <br> In Your Hand
+
+.prices__number .prices__title .prices__item
+$15
+Health Consultations
+
+Consultations about your health.
+Ask any questions about your health.
+Take your time without limits.
+
+$35
+Delivery Service
+
+We offer delivery service.
+We come to your home for service.
+Available 24 hours a day.
+
+$125
+Medical Attention
+
+Instant check-ups on your health.
+Primary attention on the patient.
+Monitoring your health for up to a week.
+
+========== GALLERY ==========
+/* Comments */
+Insert images according to the size of the reference images (1500 x 800, 800 x 1500, 150 x 150, etc.)
+
+
+========== CONTACT ==========
+.section__title
+Contact Me <br>
+<span>On All Platforms</span> 
+
+.contact__description
+Contact me on all my social media channels. I'm 
+available for you and your health. Write to me now.
+
+.contact__subtitle .contact__address
+Write to me
+
+.contact__social
+https://m.me/bedimcode
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://web.telegram.org/
+mailto:medical@email.com
+
+Location
+Lima - Peru <br>
+Av. The Trees #0123
+
+Attention
+Monday - Friday <br>
+8am - 6pm
+
+Phone number
++0123(00)-765-4321 <br>
++00-0123456
+
+/* Comments */
+Insert your location into Google Maps (https://www.google.com/maps)
+Click Share -> Embed Map -> Copy HTML
+
+
+========== FOOTER ==========
+.footer__logo
+Medical
+
+.footer__links
+Home - About Us - Prices
+
+.footer__social
+https://www.facebook.com/bedimcode
+https://www.instagram.com/bedimcode/
+twitter.com/
+https://www.youtube.com/@Bedimcode
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
