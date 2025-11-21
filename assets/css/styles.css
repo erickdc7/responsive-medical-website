@@ -165,6 +165,10 @@ img {
   color: var(--first-color);
 }
 
+.nav__logo:hover {
+  color: var(--first-color);
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
