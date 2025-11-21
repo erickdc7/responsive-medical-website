@@ -159,6 +159,12 @@ img {
   transition: color 0.4s;
 }
 
+.nav__logo i {
+  font-weight: initial;
+  font-size: 1.5rem;
+  color: var(--first-color);
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
