@@ -169,6 +169,16 @@ img {
   color: var(--first-color);
 }
 
+.nav__toggle,
+.nav__close,
+.nav__theme {
+  display: inline-flex;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--title-color);
+  transition: color 0.4s;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
