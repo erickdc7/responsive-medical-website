@@ -216,6 +216,12 @@ img {
   color: var(--first-color);
 }
 
+.nav__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+}
+
 /* Show menu */
 
 /* Add shadow header */
