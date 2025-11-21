@@ -186,6 +186,18 @@ img {
 }
 
 /* Navigation for mobile devices */
+@media screen and (max-width: 1150px) {
+  .nav__menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--body-color);
+    box-shadow: 0 4px 16px hsla(218, 68%, 18%, 0.1);
+    padding-block: 5rem;
+    transition: top 0.4s;
+  }
+}
 
 /* Show menu */
 
