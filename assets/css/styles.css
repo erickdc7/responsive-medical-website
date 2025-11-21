@@ -199,6 +199,13 @@ img {
   }
 }
 
+.nav__list {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+}
+
 /* Show menu */
 
 /* Add shadow header */
