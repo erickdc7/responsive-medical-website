@@ -261,5 +261,10 @@ img {
 /* For medium devices */
 
 /* For large devices */
+@media screen and (min-width: 1150px) {
+  .container {
+    margin-inline: auto;
+  }
+}
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
