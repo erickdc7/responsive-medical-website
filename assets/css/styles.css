@@ -314,6 +314,11 @@ img {
   font-size: 2rem;
 }
 
+.home__button {
+  flex-direction: row;
+  padding: 4rem 1rem;
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
