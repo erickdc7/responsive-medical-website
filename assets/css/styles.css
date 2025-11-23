@@ -252,6 +252,10 @@ img {
   font-weight: var(--font-regular);
 }
 
+.home__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
