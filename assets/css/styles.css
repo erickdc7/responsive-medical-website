@@ -285,6 +285,12 @@ img {
   column-gap: 0.75rem;
 }
 
+.home__name {
+  font-size: var(--h2-font-size);
+  color: var(--white-color);
+  margin-bottom: 0.5rem;
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
