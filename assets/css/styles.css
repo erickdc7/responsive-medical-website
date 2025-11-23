@@ -278,6 +278,13 @@ img {
   row-gap: 2rem;
 }
 
+.home__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 0.75rem;
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
