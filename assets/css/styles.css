@@ -248,6 +248,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.home__title span {
+  font-weight: var(--font-regular);
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
