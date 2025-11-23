@@ -291,6 +291,13 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.home__profession {
+  font-size: var(--small-font-size);
+  font-weight: var(--font-regular);
+  color: var(--white-color);
+  margin-bottom: 2rem;
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
