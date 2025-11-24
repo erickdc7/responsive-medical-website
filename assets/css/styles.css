@@ -419,6 +419,13 @@ img {
     grid-column: 2 / 3;
     text-align: initial;
   }
+
+  .home__content {
+    grid-column: 1 / 3;
+    grid-row: 2 / 3;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 5rem;
+  }
 }
 
 /* For large devices */
