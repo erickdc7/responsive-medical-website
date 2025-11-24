@@ -480,6 +480,10 @@ img {
     gap: 3rem;
     padding-top: 4rem;
   }
+
+  .home__title {
+    margin-bottom: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
