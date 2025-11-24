@@ -282,6 +282,10 @@ img {
   transition: transform 0.4s;
 }
 
+.button-dark:hover i {
+  transform: translateX(0.25rem);
+}
+
 /*=============== HOME ===============*/
 .home__container {
   row-gap: 4rem;
