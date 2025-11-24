@@ -358,6 +358,11 @@ img {
   padding: 4rem 1rem;
 }
 
+.home__button i {
+  font-weight: initial;
+  font-size: 2rem;
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
