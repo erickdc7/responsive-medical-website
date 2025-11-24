@@ -354,7 +354,7 @@ img {
 }
 
 .home__button {
-  flex-direction: row;
+  flex-direction: column;
   padding: 4rem 1rem;
 }
 
