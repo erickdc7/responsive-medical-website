@@ -247,6 +247,24 @@ img {
   background-color: var(--first-color-alt);
 }
 
+.button-dark {
+  position: relative;
+  background: linear-gradient(var(--dark-color), var(--dark-color)),
+    linear-gradient(225deg, var(--second-color) 0%, var(--dark-color) 25%);
+  border: 3px solid transparent;
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  color: var(--white-color);
+  font-weight: var(--font-semi-bold);
+  padding: 1rem 2rem;
+  border-radius: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 16px hsla(218, 68%, 18%, 0.4);
+  overflow: hidden;
+}
+
 /*=============== HOME ===============*/
 .home__container {
   row-gap: 4rem;
