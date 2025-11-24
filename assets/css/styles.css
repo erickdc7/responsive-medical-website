@@ -510,6 +510,12 @@ img {
     font-size: var(--normal-font-size);
     margin-bottom: 3rem;
   }
+
+  .home__box {
+    width: 88px;
+    height: 88px;
+    font-size: 2.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
