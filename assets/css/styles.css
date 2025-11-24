@@ -501,6 +501,10 @@ img {
   .home__info {
     padding-block: 3rem;
   }
+
+  .home__name {
+    font-size: var(--h1-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
