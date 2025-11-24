@@ -391,6 +391,11 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
+@media screen and (max-width: 330px) {
+  .home__title {
+    font-size: 1.8rem;
+  }
+}
 
 /* For medium devices */
 
