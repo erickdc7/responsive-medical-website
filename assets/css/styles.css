@@ -277,6 +277,11 @@ img {
   filter: blur(25px);
 }
 
+.button-dark i {
+  font-size: 1.5rem;
+  transition: transform 0.4s;
+}
+
 /*=============== HOME ===============*/
 .home__container {
   row-gap: 4rem;
