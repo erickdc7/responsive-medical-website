@@ -414,6 +414,11 @@ img {
     grid-template-columns: repeat(2, 350px);
     row-gap: 2rem;
   }
+
+  .home__data {
+    grid-column: 2 / 3;
+    text-align: initial;
+  }
 }
 
 /* For large devices */
