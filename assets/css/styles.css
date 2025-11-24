@@ -489,6 +489,10 @@ img {
     padding-right: 10rem;
     margin-bottom: 3rem;
   }
+
+  .home__content {
+    column-gap: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
