@@ -431,6 +431,10 @@ img {
     order: 1;
     padding-block: 2rem;
   }
+
+  .home__image {
+    position: relative;
+  }
 }
 
 /* For large devices */
