@@ -395,6 +395,10 @@ img {
   .home__title {
     font-size: 1.8rem;
   }
+
+  .home__icons {
+    flex-direction: column;
+  }
 }
 
 /* For medium devices */
