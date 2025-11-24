@@ -402,6 +402,12 @@ img {
 }
 
 /* For medium devices */
+@media screen and (min-width: 440px) {
+  .home__container {
+    grid-template-columns: 350px;
+    justify-content: center;
+  }
+}
 
 /* For large devices */
 @media screen and (min-width: 1150px) {
