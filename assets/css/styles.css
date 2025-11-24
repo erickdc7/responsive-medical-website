@@ -426,6 +426,11 @@ img {
     grid-template-columns: repeat(2, 1fr);
     padding: 0 5rem;
   }
+
+  .home__info {
+    order: 1;
+    padding-block: 2rem;
+  }
 }
 
 /* For large devices */
