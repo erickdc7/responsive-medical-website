@@ -363,6 +363,12 @@ img {
   font-size: 2rem;
 }
 
+.home__img {
+  width: 220px;
+  justify-self: center;
+  filter: drop-shadow(0 0 16px hsla(218, 68%, 18%, 0.3));
+}
+
 /*=============== DELIVERY ===============*/
 
 /*=============== ABOUT ===============*/
