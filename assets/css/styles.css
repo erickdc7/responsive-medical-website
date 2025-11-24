@@ -435,6 +435,12 @@ img {
   .home__image {
     position: relative;
   }
+
+  .home__img {
+    position: absolute;
+    bottom: 0;
+    width: 300px;
+  }
 }
 
 /* For large devices */
