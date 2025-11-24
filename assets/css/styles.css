@@ -265,6 +265,18 @@ img {
   overflow: hidden;
 }
 
+.button-dark::after {
+  content: "";
+  width: 40px;
+  height: 40px;
+  background-color: var(--second-color);
+  border-radius: 50%;
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+  filter: blur(25px);
+}
+
 /*=============== HOME ===============*/
 .home__container {
   row-gap: 4rem;
