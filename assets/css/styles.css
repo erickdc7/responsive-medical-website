@@ -505,6 +505,11 @@ img {
   .home__name {
     font-size: var(--h1-font-size);
   }
+
+  .home__profession {
+    font-size: var(--normal-font-size);
+    margin-bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
