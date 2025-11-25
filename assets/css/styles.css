@@ -228,6 +228,9 @@ img {
 }
 
 /* Add shadow header */
+.shadow-header {
+  box-shadow: 0 2px 16px hsla(218, 68%, 18%, 0.1);
+}
 
 /* Active link */
 
