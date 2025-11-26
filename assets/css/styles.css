@@ -394,6 +394,12 @@ img {
   padding-bottom: 2rem;
 }
 
+.delivery__info::-webkit-scrollbar {
+  background-color: var(--gray-color);
+  height: 4px;
+  border-radius: 1rem;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
