@@ -377,6 +377,10 @@ img {
   row-gap: 3rem;
 }
 
+.delivery__data {
+  overflow: hidden;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
