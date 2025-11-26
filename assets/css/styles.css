@@ -386,6 +386,14 @@ img {
   margin-bottom: 2rem;
 }
 
+.delivery__info {
+  display: grid;
+  grid-template-columns: repeat(3, 140px);
+  column-gap: 2.5rem;
+  overflow: auto;
+  padding-bottom: 2rem;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
