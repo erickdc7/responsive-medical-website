@@ -436,6 +436,12 @@ img {
   box-shadow: 0 8px 16px hsla(218, 94%, 45%, 0.2);
 }
 
+.delivery__title {
+  font-size: var(--h1-font-size);
+  color: var(--white-color);
+  margin-bottom: 1.5rem;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
