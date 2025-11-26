@@ -405,6 +405,20 @@ img {
   border-radius: 1rem;
 }
 
+.delivery__icon {
+  width: 48px;
+  height: 48px;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  border: 4px solid var(--gray-color);
+  border-radius: 1rem;
+  display: grid;
+  place-items: center;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  transition: border-color 0.4s;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
