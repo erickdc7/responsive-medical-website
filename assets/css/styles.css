@@ -424,6 +424,18 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.delivery__content {
+  width: 250px;
+  background-color: var(--first-color);
+  padding-block: 3rem 2rem;
+  border-radius: 2rem;
+  text-align: center;
+  justify-self: center;
+  display: grid;
+  justify-items: center;
+  box-shadow: 0 8px 16px hsla(218, 94%, 45%, 0.2);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
