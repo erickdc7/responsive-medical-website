@@ -463,6 +463,14 @@ img {
   display: grid;
 }
 
+.delivery__img {
+  position: absolute;
+  max-width: initial;
+  width: 300px;
+  justify-self: center;
+  filter: drop-shadow(0 16px 24px hsla(218, 68%, 18%, 0.6));
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
