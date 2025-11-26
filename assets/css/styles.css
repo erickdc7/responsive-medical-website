@@ -400,6 +400,11 @@ img {
   border-radius: 1rem;
 }
 
+.delivery__info::-webkit-scrollbar-thumb {
+  background-color: var(--first-color);
+  border-radius: 1rem;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
