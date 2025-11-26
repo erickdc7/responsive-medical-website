@@ -381,6 +381,11 @@ img {
   overflow: hidden;
 }
 
+.delivery__description {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
