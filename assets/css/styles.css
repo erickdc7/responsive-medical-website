@@ -419,6 +419,11 @@ img {
   transition: border-color 0.4s;
 }
 
+.delivery__subtitle {
+  font-size: var(--h3-font-size);
+  margin-bottom: 0.5rem;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
