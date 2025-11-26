@@ -451,6 +451,10 @@ img {
   column-gap: 0.5rem;
 }
 
+.delivery__patients span {
+  font-weight: var(--font-semi-bold);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
