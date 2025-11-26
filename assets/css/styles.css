@@ -455,6 +455,14 @@ img {
   font-weight: var(--font-semi-bold);
 }
 
+.delivery__image {
+  position: relative;
+  width: 100%;
+  height: 186px;
+  margin-bottom: 2rem;
+  display: grid;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PRICES ===============*/
