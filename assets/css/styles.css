@@ -676,6 +676,11 @@ img {
   .delivery__icon {
     margin-bottom: 0.75rem;
   }
+
+  .delivery__subtitle {
+    font-size: var(--normal-font-size);
+    margin-bottom: 0.75rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
