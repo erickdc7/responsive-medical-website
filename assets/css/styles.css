@@ -551,6 +551,11 @@ img {
     grid-template-columns: repeat(2, 350px);
     align-items: center;
   }
+
+  .delivery__data .section__title,
+  .delivery__description {
+    text-align: center;
+  }
 }
 
 /* For large devices */
