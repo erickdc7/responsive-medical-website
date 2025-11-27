@@ -556,6 +556,10 @@ img {
   .delivery__description {
     text-align: center;
   }
+
+  .delivery__data {
+    order: 1;
+  }
 }
 
 /* For large devices */
