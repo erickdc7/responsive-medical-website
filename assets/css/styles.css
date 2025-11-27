@@ -645,6 +645,11 @@ img {
     grid-template-columns: 380px 450px;
     column-gap: 10rem;
   }
+
+  .delivery__content {
+    width: 280px;
+    padding-block: 4rem 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
