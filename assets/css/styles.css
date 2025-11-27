@@ -499,6 +499,10 @@ img {
   .home__icons {
     flex-direction: column;
   }
+
+  .delivery__img {
+    width: 270px;
+  }
 }
 
 /* For medium devices */
