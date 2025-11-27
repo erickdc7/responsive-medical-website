@@ -546,6 +546,11 @@ img {
     bottom: 0;
     width: 300px;
   }
+
+  .delivery__container {
+    grid-template-columns: repeat(2, 350px);
+    align-items: center;
+  }
 }
 
 /* For large devices */
