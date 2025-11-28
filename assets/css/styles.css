@@ -522,6 +522,14 @@ img {
   justify-self: center;
 }
 
+.about__button {
+  color: var(--white-color);
+  display: inline-flex;
+  justify-self: center;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
