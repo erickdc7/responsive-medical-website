@@ -515,6 +515,13 @@ img {
   border-inline-end: 2px solid var(--white-color-light);
 }
 
+.about__img {
+  width: 250px;
+  border-radius: 1.5rem;
+  filter: drop-shadow(0 16px 24px hsla(218, 68%, 18%, 0.6));
+  justify-self: center;
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
