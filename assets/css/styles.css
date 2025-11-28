@@ -569,6 +569,10 @@ img {
   .delivery__img {
     width: 270px;
   }
+
+  .about__container {
+    padding-inline: 1rem;
+  }
 }
 
 /* For medium devices */
