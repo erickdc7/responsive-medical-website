@@ -535,6 +535,10 @@ img {
   transition: transform 0.4s;
 }
 
+.about__button:hover i {
+  transform: translateX(0.25rem);
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
