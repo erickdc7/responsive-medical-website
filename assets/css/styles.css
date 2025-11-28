@@ -472,6 +472,13 @@ img {
 }
 
 /*=============== ABOUT ===============*/
+.about__container {
+  background-color: var(--dark-color);
+  padding: 3rem 1.5rem 2rem;
+  row-gap: 3rem;
+  border-radius: 2rem;
+  box-shadow: 0 8px 16px hsla(218, 94%, 45%, 0.2);
+}
 
 /*=============== PRICES ===============*/
 
