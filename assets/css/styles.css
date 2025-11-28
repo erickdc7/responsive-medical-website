@@ -485,6 +485,10 @@ img {
   row-gap: 3rem;
 }
 
+.about__data .section__title {
+  color: var(--white-color);
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
