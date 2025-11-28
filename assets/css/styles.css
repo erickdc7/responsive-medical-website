@@ -500,6 +500,12 @@ img {
   text-align: center;
 }
 
+.about__number {
+  font-size: var(--h1-font-size);
+  color: var(--white-color);
+  margin-bottom: 0.25rem;
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
