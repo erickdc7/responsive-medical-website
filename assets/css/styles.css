@@ -480,6 +480,11 @@ img {
   box-shadow: 0 8px 16px hsla(218, 94%, 45%, 0.2);
 }
 
+.about__data {
+  display: grid;
+  row-gap: 3rem;
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
