@@ -489,6 +489,11 @@ img {
   color: var(--white-color);
 }
 
+.about__description {
+  color: var(--white-color-light);
+  text-align: center;
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
