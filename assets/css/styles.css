@@ -530,6 +530,11 @@ img {
   column-gap: 0.5rem;
 }
 
+.about__button i {
+  font-size: 1.5rem;
+  transition: transform 0.4s;
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
