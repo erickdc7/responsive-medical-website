@@ -557,6 +557,12 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
+@media screen and (max-width: 360px) {
+  .container {
+    margin-inline: 1rem;
+  }
+}
+
 @media screen and (max-width: 330px) {
   .home__title {
     font-size: 1.8rem;
