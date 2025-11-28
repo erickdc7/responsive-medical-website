@@ -506,6 +506,11 @@ img {
   margin-bottom: 0.25rem;
 }
 
+.about__details {
+  font-size: var(--small-font-size);
+  color: var(--white-color-light);
+}
+
 /*=============== PRICES ===============*/
 
 /* Swiper class */
