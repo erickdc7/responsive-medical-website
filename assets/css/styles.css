@@ -656,6 +656,10 @@ img {
   .about__description {
     text-align: initial;
   }
+
+  .about__info {
+    justify-items: flex-start;
+  }
 }
 
 /* For large devices */
