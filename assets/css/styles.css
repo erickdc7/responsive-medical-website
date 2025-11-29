@@ -789,6 +789,14 @@ img {
     font-size: var(--normal-font-size);
     margin-bottom: 0.75rem;
   }
+
+  .about__container {
+    width: initial;
+    grid-template-columns: 440px 320px;
+    justify-content: center;
+    column-gap: 10rem;
+    padding-block: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
