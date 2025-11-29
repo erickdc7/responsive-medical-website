@@ -561,6 +561,10 @@ img {
   .container {
     margin-inline: 1rem;
   }
+
+  .section__title {
+    font-size: 1.5rem;
+  }
 }
 
 @media screen and (max-width: 330px) {
