@@ -801,6 +801,10 @@ img {
   .about__stat {
     padding-right: 2.5rem;
   }
+
+  .about__number {
+    margin-bottom: 0.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
