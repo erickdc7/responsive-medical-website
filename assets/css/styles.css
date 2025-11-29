@@ -805,6 +805,10 @@ img {
   .about__number {
     margin-bottom: 0.5rem;
   }
+
+  .about__details {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
