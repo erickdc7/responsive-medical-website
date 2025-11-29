@@ -645,6 +645,12 @@ img {
   .delivery__data {
     order: 1;
   }
+
+  .about__container {
+    width: 700px;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
 }
 
 /* For large devices */
