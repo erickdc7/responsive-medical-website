@@ -797,6 +797,10 @@ img {
     column-gap: 10rem;
     padding-block: 3rem;
   }
+
+  .about__stat {
+    padding-right: 2.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
