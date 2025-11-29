@@ -809,6 +809,10 @@ img {
   .about__details {
     font-size: var(--normal-font-size);
   }
+
+  .about__img {
+    width: 320px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
