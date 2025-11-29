@@ -592,6 +592,11 @@ img {
     grid-template-columns: 350px;
     justify-content: center;
   }
+
+  .about__container {
+    width: 350px;
+    margin-inline: auto;
+  }
 }
 
 @media screen and (min-width: 768px) {
