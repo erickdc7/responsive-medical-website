@@ -660,6 +660,10 @@ img {
   .about__info {
     justify-items: flex-start;
   }
+
+  .about__stat {
+    padding-right: 1.5rem;
+  }
 }
 
 /* For large devices */
