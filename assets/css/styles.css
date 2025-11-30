@@ -545,6 +545,11 @@ img {
   row-gap: 3rem;
 }
 
+.prices__content {
+  display: grid;
+  position: relative;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
