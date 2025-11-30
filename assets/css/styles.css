@@ -540,6 +540,10 @@ img {
 }
 
 /*=============== PRICES ===============*/
+.prices__container {
+  padding-bottom: 4rem;
+  row-gap: 3rem;
+}
 
 /* Swiper class */
 
