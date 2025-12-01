@@ -43,8 +43,9 @@ const swiperPrices = new Swiper('.prices__swiper', {
     grabCursor: true,
     spaceBetween: 24,
 
-    pagination:{
+    pagination: {
         el: '.swiper-pagination',
+        clickable: true,
     }
 })
 
