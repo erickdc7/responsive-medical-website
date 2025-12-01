@@ -561,6 +561,14 @@ img {
   border-radius: 1rem;
 }
 
+.prices__heading {
+  background-color: var(--first-color);
+  padding: 1.5rem 1rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 1rem 1rem 0 0;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
