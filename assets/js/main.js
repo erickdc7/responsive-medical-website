@@ -50,6 +50,7 @@ const swiperPrices = new Swiper('.prices__swiper', {
 
     autoplay: {
         delay: 3000,
+        disableOnInteraction: false,
     }
 })
 
