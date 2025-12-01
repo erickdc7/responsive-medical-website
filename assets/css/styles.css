@@ -642,6 +642,12 @@ img {
   padding-block: 2rem 5rem;
 }
 
+.prices :is(.swiper-slide-next, .swiper-slide-prev) {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s;
+}
+
 /*=============== GALLERY ===============*/
 
 /*=============== CONTACT ===============*/
