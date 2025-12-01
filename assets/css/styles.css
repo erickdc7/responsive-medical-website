@@ -575,6 +575,12 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.prices__title {
+  font-size: var(--h3-font-size);
+  color: var(--white-color);
+  align-self: flex-end;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
