@@ -587,6 +587,12 @@ img {
   padding: 1.5rem 1rem;
 }
 
+.prices__item {
+  display: flex;
+  column-gap: 0.25rem;
+  font-size: var(--small-font-size);
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
