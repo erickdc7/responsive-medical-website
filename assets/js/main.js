@@ -40,6 +40,7 @@ window.addEventListener('scroll', shadowHeader)
 /*=============== SWIPER PRICES ===============*/
 const swiperPrices = new Swiper('.prices__swiper', {
     loop: true,
+    grabCursor: true,
 })
 
 /*=============== SHOW SCROLL UP ===============*/
