@@ -615,6 +615,18 @@ img {
   overflow: hidden;
 }
 
+.prices__box::after {
+  content: "";
+  width: 64px;
+  height: 64px;
+  background-color: var(--second-color);
+  border-radius: 50%;
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+  filter: blur(32px);
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
