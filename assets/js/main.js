@@ -46,6 +46,10 @@ const swiperPrices = new Swiper('.prices__swiper', {
     pagination: {
         el: '.swiper-pagination',
         clickable: true,
+    },
+
+    autoplay: {
+        delay: 3000,
     }
 })
 
