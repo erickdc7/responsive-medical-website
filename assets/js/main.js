@@ -42,6 +42,10 @@ const swiperPrices = new Swiper('.prices__swiper', {
     loop: true,
     grabCursor: true,
     spaceBetween: 24,
+
+    pagination:{
+        el: '.swiper-pagination',
+    }
 })
 
 /*=============== SHOW SCROLL UP ===============*/
