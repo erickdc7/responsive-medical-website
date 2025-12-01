@@ -569,6 +569,12 @@ img {
   border-radius: 1rem 1rem 0 0;
 }
 
+.prices__number {
+  font-size: var(--bigger-font-size);
+  color: var(--white-color);
+  margin-bottom: 0.5rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
