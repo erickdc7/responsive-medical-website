@@ -581,6 +581,12 @@ img {
   align-self: flex-end;
 }
 
+.prices__list {
+  display: grid;
+  row-gap: 0.5rem;
+  padding: 1.5rem 1rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
