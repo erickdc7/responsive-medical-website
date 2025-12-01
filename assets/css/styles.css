@@ -636,6 +636,11 @@ img {
 }
 
 /* Swiper class */
+.prices .swiper {
+  width: 320px;
+  overflow: initial;
+  padding-block: 2rem 5rem;
+}
 
 /*=============== GALLERY ===============*/
 
