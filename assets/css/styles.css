@@ -593,6 +593,11 @@ img {
   font-size: var(--small-font-size);
 }
 
+.prices__item i {
+  color: var(--first-color);
+  font-size: 1rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
