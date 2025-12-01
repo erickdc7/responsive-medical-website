@@ -627,6 +627,14 @@ img {
   filter: blur(32px);
 }
 
+.prices__details {
+  color: var(--white-color);
+  font-size: var(--small-font-size);
+  text-align: center;
+  align-self: flex-end;
+  padding-bottom: 1.5rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
