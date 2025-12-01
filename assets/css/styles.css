@@ -550,6 +550,10 @@ img {
   position: relative;
 }
 
+.prices__description {
+  text-align: center;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
