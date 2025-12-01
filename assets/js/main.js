@@ -38,7 +38,9 @@ const shadowHeader = () => {
 window.addEventListener('scroll', shadowHeader)
 
 /*=============== SWIPER PRICES ===============*/
-
+const swiperPrices = new Swiper('.prices__swiper', {
+    loop: true,
+})
 
 /*=============== SHOW SCROLL UP ===============*/
 
