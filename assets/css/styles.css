@@ -811,6 +811,10 @@ img {
   .prices__box {
     width: 460px;
   }
+
+  .prices__content {
+    overflow-x: clip;
+  }
 }
 
 /* For large devices */
