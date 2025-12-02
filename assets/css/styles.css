@@ -996,6 +996,12 @@ img {
   .prices__item {
     font-size: var(--normal-font-size);
   }
+
+  .prices__box::after {
+    width: 100px;
+    height: 100px;
+    filter: blur(60px);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
