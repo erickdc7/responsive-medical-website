@@ -979,6 +979,10 @@ img {
     width: 460px;
     padding-block: 2.5rem 7rem;
   }
+
+  .prices__heading {
+    padding: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
