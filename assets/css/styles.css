@@ -987,6 +987,11 @@ img {
   .prices__number {
     font-size: var(--h1-font-size);
   }
+
+  .prices__list {
+    padding: 2rem 1.5rem 3.5rem;
+    row-gap: 1rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
