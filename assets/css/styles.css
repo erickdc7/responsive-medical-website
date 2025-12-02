@@ -648,6 +648,10 @@ img {
   transition: opacity 0.4s;
 }
 
+.prices .swiper-pagination-bullets.swiper-pagination-horizontal {
+  bottom: -4rem;
+}
+
 /*=============== GALLERY ===============*/
 
 /*=============== CONTACT ===============*/
