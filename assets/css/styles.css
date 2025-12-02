@@ -992,6 +992,10 @@ img {
     padding: 2rem 1.5rem 3.5rem;
     row-gap: 1rem;
   }
+
+  .prices__item {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
