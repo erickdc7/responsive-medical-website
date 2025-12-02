@@ -964,6 +964,11 @@ img {
   .prices__container {
     row-gap: 4rem;
   }
+
+  .prices__box {
+    width: 660px;
+    border-radius: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
