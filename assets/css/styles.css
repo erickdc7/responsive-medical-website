@@ -652,6 +652,14 @@ img {
   bottom: -4rem;
 }
 
+.prices .swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background-color: var(--gray-color);
+  opacity: 1;
+  transition: background-color 0.4s;
+}
+
 /*=============== GALLERY ===============*/
 
 /*=============== CONTACT ===============*/
