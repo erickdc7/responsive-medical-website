@@ -798,6 +798,10 @@ img {
   .about__button {
     justify-self: flex-start;
   }
+
+  .prices__container {
+    width: 700px;
+  }
 }
 
 /* For large devices */
