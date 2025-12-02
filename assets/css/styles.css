@@ -708,6 +708,10 @@ img {
   .about__container {
     padding-inline: 1rem;
   }
+
+  .prices .swiper {
+    width: 250px;
+  }
 }
 
 /* For medium devices */
