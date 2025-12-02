@@ -722,7 +722,8 @@ img {
     justify-content: center;
   }
 
-  .about__container {
+  .about__container,
+  .prices__container {
     width: 350px;
     margin-inline: auto;
   }
