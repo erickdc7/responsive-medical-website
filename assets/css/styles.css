@@ -802,6 +802,11 @@ img {
   .prices__container {
     width: 700px;
   }
+
+  .prices__description {
+    width: 540px;
+    margin-inline: auto;
+  }
 }
 
 /* For large devices */
