@@ -807,6 +807,10 @@ img {
     width: 540px;
     margin-inline: auto;
   }
+
+  .prices__box {
+    width: 460px;
+  }
 }
 
 /* For large devices */
