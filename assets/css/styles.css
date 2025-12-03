@@ -682,6 +682,10 @@ img {
   grid-area: img-2;
 }
 
+.gallery__image:nth-child(3) {
+  grid-area: img-3;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
