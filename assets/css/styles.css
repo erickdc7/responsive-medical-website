@@ -690,6 +690,12 @@ img {
   grid-area: img-4;
 }
 
+.gallery__image {
+  border-radius: 1.5rem;
+  overflow: hidden;
+  box-shadow: 0 8px 16px hsla(218, 94%, 45%, 0.1);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
