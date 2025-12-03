@@ -1049,6 +1049,11 @@ img {
     height: 100px;
     filter: blur(60px);
   }
+
+  .gallery__container {
+    grid-template-columns: repeat(2, 400px);
+    gap: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
