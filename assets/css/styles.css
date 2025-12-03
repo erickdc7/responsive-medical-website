@@ -674,6 +674,10 @@ img {
     "img-2 img-4";
 }
 
+.gallery__image:nth-child(1) {
+  grid-area: img-1;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
