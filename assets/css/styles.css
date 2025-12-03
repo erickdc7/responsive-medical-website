@@ -704,6 +704,10 @@ img {
   transition: transform 0.4s;
 }
 
+.gallery__img:hover {
+  transform: scale(1.2);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
