@@ -1054,6 +1054,10 @@ img {
     grid-template-columns: repeat(2, 400px);
     gap: 2rem;
   }
+
+  .gallery__image:nth-child(1) {
+    height: 400px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
