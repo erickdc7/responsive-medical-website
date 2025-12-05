@@ -760,6 +760,10 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.contact__address {
+  font-style: initial;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
