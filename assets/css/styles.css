@@ -937,6 +937,11 @@ img {
   .prices__content {
     overflow-x: clip;
   }
+
+  .contact__container {
+    grid-template-columns: repeat(2, 350px);
+    align-items: center;
+  }
 }
 
 /* For large devices */
