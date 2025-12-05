@@ -947,6 +947,11 @@ img {
   .contact__description {
     text-align: initial;
   }
+
+  .contact__info {
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: flex-start;
+  }
 }
 
 /* For large devices */
