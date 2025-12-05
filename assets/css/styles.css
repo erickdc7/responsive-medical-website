@@ -802,6 +802,10 @@ img {
   .prices .swiper {
     width: 280px;
   }
+
+  .contact__map {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 330px) {
