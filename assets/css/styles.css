@@ -776,6 +776,10 @@ img {
   transition: transform 0.4s;
 }
 
+.contact__social-link:hover {
+  transform: translateY(-0.25rem);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
