@@ -728,6 +728,11 @@ img {
   overflow: hidden;
 }
 
+.contact__description {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
