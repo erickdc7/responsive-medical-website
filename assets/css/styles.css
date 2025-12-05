@@ -733,6 +733,21 @@ img {
   margin-bottom: 2rem;
 }
 
+.contact__icon {
+  width: 48px;
+  height: 48px;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  border: 4px solid var(--gray-color);
+  border-radius: 1rem;
+  display: grid;
+  place-items: center;
+  justify-self: center;
+  font-size: 1.5rem;
+  margin: 0 auto 0.5rem;
+  transition: border-color 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
