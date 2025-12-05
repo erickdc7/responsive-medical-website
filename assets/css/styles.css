@@ -709,6 +709,10 @@ img {
 }
 
 /*=============== CONTACT ===============*/
+.contact__container {
+  row-gap: 2rem;
+  padding-bottom: 1.5rem;
+}
 
 /*=============== FOOTER ===============*/
 
