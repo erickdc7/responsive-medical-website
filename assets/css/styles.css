@@ -770,6 +770,12 @@ img {
   column-gap: 0.75rem;
 }
 
+.contact__social-link {
+  font-size: 1.5rem;
+  color: var(--first-color);
+  transition: transform 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
