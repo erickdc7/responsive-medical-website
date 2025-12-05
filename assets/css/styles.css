@@ -1161,6 +1161,10 @@ img {
   .contact__info {
     gap: 4rem 6rem;
   }
+
+  .contact__icon {
+    margin-bottom: 0.75rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
