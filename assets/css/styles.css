@@ -719,6 +719,15 @@ img {
   height: 100%;
 }
 
+.contact__map {
+  width: 320px;
+  height: 320px;
+  justify-self: center;
+  box-shadow: 0 8px 16px hsla(218, 94%, 45%, 0.2);
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
