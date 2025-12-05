@@ -764,6 +764,12 @@ img {
   font-style: initial;
 }
 
+.contact__social {
+  display: flex;
+  justify-content: center;
+  column-gap: 0.75rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
