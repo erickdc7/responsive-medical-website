@@ -833,7 +833,8 @@ img {
 /* For medium devices */
 @media screen and (min-width: 440px) {
   .home__container,
-  .delivery__container {
+  .delivery__container,
+  .contact__container {
     grid-template-columns: 350px;
     justify-content: center;
   }
