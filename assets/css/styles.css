@@ -1148,6 +1148,11 @@ img {
   .gallery__image:nth-child(1) {
     height: 400px;
   }
+
+  .contact__container {
+    grid-template-columns: 440px 450px;
+    column-gap: 10rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
