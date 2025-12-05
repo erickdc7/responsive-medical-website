@@ -733,6 +733,13 @@ img {
   margin-bottom: 2rem;
 }
 
+.contact__info {
+  display: grid;
+  row-gap: 2rem;
+  justify-content: center;
+  text-align: center;
+}
+
 .contact__icon {
   width: 48px;
   height: 48px;
