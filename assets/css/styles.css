@@ -1170,6 +1170,12 @@ img {
     font-size: var(--normal-font-size);
     margin-bottom: 0.75rem;
   }
+
+  .contact__map {
+    width: 450px;
+    height: 450px;
+    border-radius: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
