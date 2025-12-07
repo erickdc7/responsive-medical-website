@@ -1252,6 +1252,10 @@ img {
     height: 450px;
     border-radius: 2rem;
   }
+
+  .footer {
+    padding-top: 6rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
