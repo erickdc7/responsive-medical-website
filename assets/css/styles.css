@@ -789,6 +789,12 @@ img {
   row-gap: 2rem;
 }
 
+.footer__logo,
+.footer__links,
+.footer__social {
+  display: flex;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
