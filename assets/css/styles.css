@@ -806,6 +806,12 @@ img {
   transition: color 0.4s;
 }
 
+.footer__logo i {
+  font-weight: initial;
+  font-size: 2rem;
+  color: var(--first-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
