@@ -900,6 +900,10 @@ img {
   .prices .swiper {
     width: 250px;
   }
+
+  .footer__links {
+    column-gap: 1.5rem;
+  }
 }
 
 /* For medium devices */
