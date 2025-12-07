@@ -795,6 +795,17 @@ img {
   display: flex;
 }
 
+.footer__logo {
+  align-items: center;
+  justify-self: center;
+  column-gap: 0.25rem;
+  color: var(--title-color);
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-semi-bold);
+  margin-bottom: 1rem;
+  transition: color 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
