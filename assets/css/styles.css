@@ -812,6 +812,10 @@ img {
   color: var(--first-color);
 }
 
+.footer__logo:hover {
+  color: var(--first-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
