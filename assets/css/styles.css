@@ -816,6 +816,11 @@ img {
   color: var(--first-color);
 }
 
+.footer__links {
+  justify-content: center;
+  column-gap: 3rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
