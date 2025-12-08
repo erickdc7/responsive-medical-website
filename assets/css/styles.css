@@ -886,6 +886,10 @@ img {
   transition: bottom 0.4s, transform 0.4s, background-color 0.4s, color 0.4s;
 }
 
+.scrollup:hover {
+  transform: translateY(-0.5rem);
+}
+
 /* Show Scroll Up */
 
 /*=============== BREAKPOINTS ===============*/
