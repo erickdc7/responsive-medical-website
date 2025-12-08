@@ -1261,6 +1261,12 @@ img {
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
   }
+
+  .footer__logo {
+    margin-bottom: 0;
+    font-size: var(--h2-font-size);
+    justify-self: flex-start;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
