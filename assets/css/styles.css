@@ -861,6 +861,11 @@ img {
   background-color: hsl(218, 16%, 90%);
 }
 
+::-webkit-scrollbar-thumb {
+  border-radius: 1rem;
+  background-color: hsl(218, 16%, 80%);
+}
+
 /*=============== SCROLL UP ===============*/
 
 /* Show Scroll Up */
