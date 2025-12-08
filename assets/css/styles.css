@@ -1271,6 +1271,10 @@ img {
   .footer__social {
     justify-self: flex-end;
   }
+
+  .footer__link {
+    font-size: var(--normal-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
