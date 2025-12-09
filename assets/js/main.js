@@ -136,3 +136,4 @@ sr.reveal(`.about__data`, { origin: 'left' })
 sr.reveal(`.about__img`, { origin: 'right' })
 
 sr.reveal(`.prices__box`)
+sr.reveal(`.prices__swiper`, { origin: 'bottom', delay: 600 })
