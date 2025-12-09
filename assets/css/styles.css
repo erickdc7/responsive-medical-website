@@ -111,6 +111,10 @@ img {
   box-shadow: 0 2px hsla(218, 68%, 4%, 0.7);
 }
 
+.dark-theme .nav__menu {
+  box-shadow: 0 4px 16px hsla(218, 68%, 4%, 0.7);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
