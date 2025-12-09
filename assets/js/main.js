@@ -134,3 +134,5 @@ sr.reveal(`.delivery__img`, { delay: 1200 })
 
 sr.reveal(`.about__data`, { origin: 'left' })
 sr.reveal(`.about__img`, { origin: 'right' })
+
+sr.reveal(`.prices__box`)
