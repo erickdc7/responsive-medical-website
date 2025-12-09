@@ -130,3 +130,4 @@ sr.reveal(`.home__button`, { origin: 'left', delay: 1800 })
 
 sr.reveal(`.delivery__data`, { origin: 'right' })
 sr.reveal(`.delivery__content`, { origin: 'left', delay: 600 })
+sr.reveal(`.delivery__img`, { delay: 1200 })
