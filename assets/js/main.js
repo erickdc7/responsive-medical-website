@@ -132,7 +132,7 @@ sr.reveal(`.delivery__data`, { origin: 'right' })
 sr.reveal(`.delivery__content`, { origin: 'left', delay: 600 })
 sr.reveal(`.delivery__img`, { delay: 1200 })
 
-sr.reveal(`.about__data`, { origin: 'left' })
+sr.reveal(`.about__data, .contact__map`, { origin: 'left' })
 sr.reveal(`.about__img`, { origin: 'right' })
 
 sr.reveal(`.prices__box`)
