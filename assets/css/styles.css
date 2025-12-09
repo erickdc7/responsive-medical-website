@@ -107,6 +107,9 @@ img {
 	Color changes in some parts of 
 	the website, in dark theme
 ==========*/
+.dark-theme :is(.shadow-header, .scrollup) {
+  box-shadow: 0 2px hsla(218, 68%, 4%, 0.7);
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
