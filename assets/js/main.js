@@ -122,3 +122,5 @@ const sr = ScrollReveal({
     duration: 2000,
     reset: true
 })
+
+sr.reveal(`.home__content`, { origin: 'bottom' })
