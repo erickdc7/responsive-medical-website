@@ -119,6 +119,10 @@ img {
   background-color: var(--white-color);
 }
 
+.dark-theme .prices__item {
+  color: var(--gray-color);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
